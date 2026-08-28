@@ -1,0 +1,2625 @@
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13642, функция: bool {anonymous}::TX::txClear(HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6737801B0 (64-bit), Flags: CMdrE0, Thread: 0x663C (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6735F34A5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6735FCFE8 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txClear()
+# 2 0x00007FF673608FE6 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:43:18, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:43:23
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13642, функция: bool {anonymous}::TX::txClear(HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6901701B0 (64-bit), Flags: CMdrE0, Thread: 0x4DC4 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF68FFE34A5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF68FFECFE8 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txClear()
+# 2 0x00007FF68FFF903F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:48:13, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:48:18
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13642, функция: bool {anonymous}::TX::txClear(HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6901701B0 (64-bit), Flags: CMdrE0, Thread: 0x32D8 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF68FFE34A5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF68FFECFE8 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txClear()
+# 2 0x00007FF68FFF903F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:48:13, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:49:13
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13642, функция: bool {anonymous}::TX::txClear(HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF72A4A01B0 (64-bit), Flags: CMdrE0, Thread: 0x2934 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF72A3134A5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF72A31CFE8 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txClear()
+# 2 0x00007FF72A32903F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:50:22, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:50:27
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13642, функция: bool {anonymous}::TX::txClear(HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7500301B0 (64-bit), Flags: CMdrE0, Thread: 0x6500 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF74FEA34A5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF74FEACFE8 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txClear()
+# 2 0x00007FF74FEB903D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:52:31, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:52:41
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF703C75A10 (64-bit), Flags: CMdRe0, Thread: 0x2C28 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF703AA5655 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF703AA59C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF703ABD6F0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7039F222A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7039F1B08 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7039F16AB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF703ABB293 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:02:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:02:20
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF61A255A10 (64-bit), Flags: CMdRe0, Thread: 0x3108 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF61A085655 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF61A0859C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF61A09D730 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF619FD222A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF619FD1B08 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF619FD16AB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF61A09B293 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:05:44, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:05:50
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF755CE5A10 (64-bit), Flags: CMdRe0, Thread: 0x21C0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF755B15655 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF755B159C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF755B2D730 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF755A6222A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF755A6195D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF755A616AB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF755B2B293 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:07:42, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:07:46
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6D70A97D0 (64-bit), Flags: CMdRe0, Thread: 0x2174 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6D706E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6D706E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6D70863B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6D70620C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6D7061808 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6D7061556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6D7083F13 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:09:26, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:09:34
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7A98B97D0 (64-bit), Flags: CMdRe0, Thread: 0x28C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7A987E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7A987E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7A9896150 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7A98720C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7A98719B3 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7A9871556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7A9893F0F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:11:44, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:11:48
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF645C797D0 (64-bit), Flags: CMdRe0, Thread: 0x5A40 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF645C3E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF645C3E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF645C56150 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF645C320C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF645C31808 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF645C31556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF645C53F0F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:12:34, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:12:38
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7004E97D0 (64-bit), Flags: CMdRe0, Thread: 0x1FD4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7004AE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7004AE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7004C6160 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7004A20C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7004A19B3 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7004A1556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7004C3F0F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:18:04, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:18:08
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7004E97D0 (64-bit), Flags: CMdRe0, Thread: 0x67F8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7004AE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7004AE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7004C6160 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7004A20C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7004A18D4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7004A1556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7004C3F0F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:18:04, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:22:56
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7004E97D0 (64-bit), Flags: CMdRe0, Thread: 0x5E88 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7004AE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7004AE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7004C6160 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7004A20C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7004A1808 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7004A1556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7004C3F0F in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:18:04, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:30:02
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6307997D0 (64-bit), Flags: CMdRe0, Thread: 0x5E1C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF63075E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF63075E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6307763B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF630773E10 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:31:26, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:31:34
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF702A997D0 (64-bit), Flags: CMdRe0, Thread: 0x5CD8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF702A5E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF702A5E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF702A763B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF702A73E10 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:32:06, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:32:10
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7148097D0 (64-bit), Flags: CMdRe0, Thread: 0x5148 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7147CE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7147CE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7147E63B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7147C20C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7147C18D4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7147C1556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7147E3F1D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:33:16, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:33:24
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7148097D0 (64-bit), Flags: CMdRe0, Thread: 0x4F50 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7147CE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7147CE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7147E63B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF7147E3E1A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:33:16, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:33:47
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6168397D0 (64-bit), Flags: CMdRe0, Thread: 0x6344 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6167FE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6167FE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6168163B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF616813E10 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:35:03, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:35:07
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6168397D0 (64-bit), Flags: CMdRe0, Thread: 0x3DFC (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6167FE2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6167FE640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6168163B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6167F20C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6167F1808 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6167F1556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF616813F13 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:35:03, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:35:20
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7005497D0 (64-bit), Flags: CMdRe0, Thread: 0x6020 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF70050E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF70050E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7005263B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7005020C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF700501808 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF700501556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF700523F13 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:36:36, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:36:40
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7005497D0 (64-bit), Flags: CMdRe0, Thread: 0x671C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF70050E2D5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF70050E640 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7005263B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF700523E10 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:36:36, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:37:16
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF68F5C97D0 (64-bit), Flags: CMdRe0, Thread: 0x3070 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF68F58E2CE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF68F58E639 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF68F5A63B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF68F5A3E08 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:37:40, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:37:45
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6FB4097D0 (64-bit), Flags: CMdRe0, Thread: 0x67F4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6FB3CE31E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6FB3CE689 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6FB3E6400 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF6FB3E3E58 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:38:59, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:39:03
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6FB4097D0 (64-bit), Flags: CMdRe0, Thread: 0x3F90 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6FB3CE31E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6FB3CE689 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6FB3E6400 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6FB3C210E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6FB3C1856 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6FB3C1571 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6FB3E3F5B in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:38:59, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:39:19
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7607697D0 (64-bit), Flags: CMdRe0, Thread: 0x3C30 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF76072E31E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF76072E689 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF760746400 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF76072210E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF760721856 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF760721571 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF760743F5B in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:41:58, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:42:02
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6A67A97D0 (64-bit), Flags: CMdRe0, Thread: 0x6468 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6A676E31E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6A676E689 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6A6786410 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF6A6783E67 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:46:15, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:46:19
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7471B97D0 (64-bit), Flags: CMdRe0, Thread: 0x5150 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF74717E31E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF74717E689 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF747196430 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF74717210E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF747171A01 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF747171571 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF747193F8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:53:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:53:17
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6087797D0 (64-bit), Flags: CMdRe0, Thread: 0x1E9C (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF60873E31E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF60873E689 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF608756440 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF60873210E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF608731856 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF608731571 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF608753FA4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:55:14, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:55:17
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6F9F697D0 (64-bit), Flags: CMdRe0, Thread: 0x6040 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6F9F2E33E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6F9F2E6A9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6F9F46470 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6F9F22135 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6F9F21A28 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6F9F21598 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6F9F43FCD in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:57:30, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:57:33
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF738B597D0 (64-bit), Flags: CMdRe0, Thread: 0x4F5C (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF738B1E38E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF738B1E6F9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF738B364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF738B12183 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF738B11A76 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF738B11598 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF738B3401D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:59:04, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:59:09
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7CC0497D0 (64-bit), Flags: CMdRe0, Thread: 0x5AAC (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7CC00E38E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7CC00E6F9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7CC0264C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7CC002183 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7CC0018CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7CC001598 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7CC02401D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:59:41, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 17:59:49
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7CC0497D0 (64-bit), Flags: CMdRe0, Thread: 0x63F4 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7CC00E38E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7CC00E6F9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7CC0264C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7CC002183 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7CC0018CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7CC001598 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7CC02401D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 17:59:41, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:00:15
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6301097D0 (64-bit), Flags: CMdRe0, Thread: 0x5E6C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6300CE36E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6300CE6D9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6300E64A0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6300C215C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6300C18A4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6300C157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6300E3FFD in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:01:18, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:01:22
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6959597D0 (64-bit), Flags: CMdRe0, Thread: 0x3E74 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF69591E36E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF69591E6D9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6959364A0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF69591215C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6959118A4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF69591157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF695933FFD in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:01:59, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:02:02
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7B29A97D0 (64-bit), Flags: CMdRe0, Thread: 0x3E6C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7B296E38E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7B296E6F9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7B29864C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7B2962183 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7B29618CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7B296157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7B298401D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:02:42, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:02:46
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6536F97D0 (64-bit), Flags: CMdRe0, Thread: 0x2760 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6536BE3AE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6536BE719 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6536D64E0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6536B21AA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6536B18CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6536B157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6536D403D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:03:21, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:03:25
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7ACD097D0 (64-bit), Flags: CMdRe0, Thread: 0x61C8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7ACCCE3AE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7ACCCE719 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7ACCE64E0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7ACCC21AA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7ACCC18CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7ACCC157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7ACCE403D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:04:13, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:04:16
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6FA3F97D0 (64-bit), Flags: CMdRe0, Thread: 0x164C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6FA3BE3FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6FA3BE769 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6FA3D6530 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6FA3B21D1 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6FA3B18CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6FA3B157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6FA3D408D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:05:07, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:05:11
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7A54F97D0 (64-bit), Flags: CMdRe0, Thread: 0x2D60 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7A54BE42E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7A54BE799 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7A54D6560 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7A54B21D1 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7A54B18CB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7A54B157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7A54D40BD in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:06:30, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:06:35
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7A54F97D0 (64-bit), Flags: CMdRe0, Thread: 0x633C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7A54BE42E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7A54BE799 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7A54D6560 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7A54B21D1 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7A54B1A31 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7A54B157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7A54D40BD in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:06:30, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:07:42
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF72FD597D0 (64-bit), Flags: CMdRe0, Thread: 0xC48 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF72FD1E47E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF72FD1E7E9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF72FD365B0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF72FD12223 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF72FD118CF in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF72FD1157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF72FD3410D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:08:59, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:09:04
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7CC5997D0 (64-bit), Flags: CMdRe0, Thread: 0x2740 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7CC55E49E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7CC55E809 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7CC5765D0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7CC55224A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7CC5518F6 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7CC55157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7CC57412D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:09:41, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:09:46
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6DD3497D0 (64-bit), Flags: CMdRe0, Thread: 0x6150 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6DD30E4AE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6DD30E819 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6DD3265E0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6DD30224E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF6DD3018FA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF6DD30157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF6DD32413D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:10:49, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:10:52
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (4, 0x00): SIGILL: Попытка выполнить недопустимую операцию. Проверьте указатели на функции. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7403197D0 (64-bit), Flags: CMdRe0, Thread: 0x5CFC (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7402DE4CE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7402DE839 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF7402F6600 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7402D2271 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: add_str_s2_to_s1()
+# 8 0x00007FF7402D18FA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 9 0x00007FF7402D157D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+#10 0x00007FF7402F415D in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:11:52, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:11:56
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF61F9497D0 (64-bit), Flags: CMdRe0, Thread: 0x36D8 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF61F90E4CE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF61F90E839 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF61F926600 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF61F924041 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:22:54, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:22:58
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF61F9497D0 (64-bit), Flags: CMdRe0, Thread: 0x5DE8 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF61F90E4CE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF61F90E839 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF61F926600 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF61F924041 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:22:54, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:23:37
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF61F9497D0 (64-bit), Flags: CMdRe0, Thread: 0x5D8C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF61F90E4CE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF61F90E839 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF61F926600 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF61F924041 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:22:54, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:25:12
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6806697D0 (64-bit), Flags: CMdRe0, Thread: 0x5CDC (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF68062E4CE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF68062E839 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF680646690 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF68064405A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:27:36, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:27:41
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x2AC4 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:31:16
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x268 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:34:56
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x31E4 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:36:40
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x5AF4 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:58:26
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x3F24 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:59:32
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x3CF0 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 18:59:44
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x3EEC (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 19:03:14
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x6020 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 19:04:58
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6610597D0 (64-bit), Flags: CMdRe0, Thread: 0x6488 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66101E2FE in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66101E669 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF6610364C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF661033E8A in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 18:31:12, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 19:05:50
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7436A97D0 (64-bit), Flags: CMdRe0, Thread: 0x3FD0 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF74366E36E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF74366E6D9 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF743686520 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF743683EE1 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 19:13:22, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 19:13:27
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF70E6397D0 (64-bit), Flags: CMdRe0, Thread: 0x37E8 (Main), errno: 9 (Bad file descriptor). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF70E5FE355 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF70E5FE6C0 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF70E616560 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D8B0 in C:\WINDOWS\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF70E613EBC in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 19:42:06, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 19:42:10
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: Целочисленное деление на ноль.
+
+#1: Исключение EXCEPTION_INT_DIVIDE_BY_ZERO (0xC0000094) при выполнении кода по адресу 0x00007FF6C7101F37 в функции calc() в модуле C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe. Спасибо _txUnhandledExceptionFilter(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6C71497D0 (64-bit), Flags: CMdRe0, Thread: 0x63E4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6C7101F37 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc()
+# 1 0x00007FF6C7101E8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc()
+# 2 0x00007FF6C7101C74 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: solve_expr()
+# 3 0x00007FF6C71019C7 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 4 0x00007FF6C7101556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+# 5 0x00007FF6C7123F52 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 20:19:44, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 20:19:50
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: Целочисленное деление на ноль.
+
+#1: Исключение EXCEPTION_INT_DIVIDE_BY_ZERO (0xC0000094) при выполнении кода по адресу 0x00007FF6C7101F37 в функции calc() в модуле C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe. Спасибо _txUnhandledExceptionFilter(), что сообщил. Люблю его <3
+
+С помощью функции _set_se_translator() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6C71497D0 (64-bit), Flags: CMdRe0, Thread: 0x63E4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6C7101F37 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc()
+# 1 0x00007FF6C7101E8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc()
+# 2 0x00007FF6C7101C74 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: solve_expr()
+# 3 0x00007FF6C71019C7 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_from_expr()
+# 4 0x00007FF6C7101556 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: calc_coefs_of_quadratic_eq()
+# 5 0x00007FF6C7123F52 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 20:19:44, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 20:19:50
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF733F197D0 (64-bit), Flags: Cmdre0, Thread: 0x5BAC (Main), GetLastError(): 183 (Невозможно создать файл, так как он уже существует). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF733EDE7B5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF733EDEB20 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFE86D3F2E4 in C:\WINDOWS\System32\ucrtbase.dll: seh_filter_exe()
+# 3 0x00007FF733EF6A00 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_SEH_error_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:105
+# 4 0x00007FFE89B44ABF in C:\WINDOWS\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFE89A25E97 in C:\WINDOWS\SYSTEM32\ntdll.dll: RtlLocateExtendedFeature()
+# 6 0x00007FFE89B443FE in C:\WINDOWS\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFE86D9D900 in C:\WINDOWS\System32\ucrtbase.dll: strlen()
+# 8 0x00007FF733EF75E5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __pformat_puts() at D:/W/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c:580
+# 9 0x00007FF733EF9AF2 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_pformat() at D:/W/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c:2539
+#10 0x00007FF733EF7142 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: __mingw_fprintf() at D:/W/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_fprintf.c:54
+#11 0x00007FF733EF40EB in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 28 2026 17:53:52, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 28 2026 17:53:56
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------

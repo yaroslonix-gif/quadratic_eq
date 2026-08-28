@@ -1,0 +1,1 @@
+g++ -w -mwindows expr_solver.c tests.c base.c calc_roots.c input_output_mod.c calc_roots_program.c -o calc_roots_program

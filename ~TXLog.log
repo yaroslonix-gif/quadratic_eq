@@ -1,0 +1,259 @@
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF636C347D0 (64-bit), Flags: cmdre0, Thread: 0x4F8C (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF636B0BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF636B1545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF636B216A4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF636BC8F5C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 14:46:04, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 14:46:18
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7790647D0 (64-bit), Flags: cmdre0, Thread: 0x34DC (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF778F3BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF778F4545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF778F516A4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF778FF8F13 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 14:49:10, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 14:49:24
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6E4B547D0 (64-bit), Flags: cmdre0, Thread: 0x67B8 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6E4A2BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6E4A3545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF6E4A416A4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF6E4AE8ED6 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 14:51:14, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 14:51:26
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF66B7547D0 (64-bit), Flags: cmdre0, Thread: 0x3068 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66B62BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66B63545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF66B6416A4 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF66B6E8E8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 14:52:43, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 14:52:58
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7740B47D0 (64-bit), Flags: cmdre0, Thread: 0x6660 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF773F8BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF773F9545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF773FA16BA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF774048E8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 14:54:45, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 14:55:04
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7E5B647D0 (64-bit), Flags: cmdre0, Thread: 0x6230 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7E5A3BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7E5A4545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF7E5A516BA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF7E5AF8E8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:03:22, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:03:39
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe, файл: C:\Users\co\Desktop\C\TX\TXLib.h, строка: 13603, функция: HBRUSH__* {anonymous}::TX::txSetFillColor(COLORREF, HDC),
+
+Сообщение: Окно рисования не создано или не в порядке.
+Если вы указали параметр "dc", то он неверен.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF67F0747D0 (64-bit), Flags: cmdre0, Thread: 0x2A50 (Main), GetLastError(): 13 (Недопустимые данные). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF67EF4BEB5 in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF67EF5545C in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: (anonymous namespace)::TX::txSetFillColor()
+# 2 0x00007FF67EF616BA in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: draw_buttons()
+# 3 0x00007FF67F008E8E in C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\co\Desktop\C\TX\TXLib.h
+Compiled:	Aug 27 2026 15:08:06, GNU g++ 16.1.0, std=202002L, MinGW-W64 Runtime 15.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Aug 27 2026 15:08:37
+
+Run file:	C:\Users\co\Desktop\C\quadratic_eq_modificated\calc_roots_program.exe
+Directory:	C:\Users\co\Desktop\C\quadratic_eq_modificated
+
+--------------------------------------------------
