@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['reset_5fbuffer_0',['reset_buffer',['../calc__roots__program_8c.html#aae2b78cf7ebef8ea0485802a364b1f61',1,'reset_buffer(char *buffer_eq, int *now_buf_ind):&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#aae2b78cf7ebef8ea0485802a364b1f61',1,'reset_buffer(char *buffer_eq, int *now_buf_ind):&#160;calc_roots_program.c']]],
+  ['return_5fmultiply_5fx_1',['return_multiply_x',['../expr__solver_8c.html#a0358722d30ebeba200a318f3aab1a3a5',1,'return_multiply_x(char *expr):&#160;expr_solver.c'],['../expr__solver_8h.html#a0358722d30ebeba200a318f3aab1a3a5',1,'return_multiply_x(char *expr):&#160;expr_solver.c']]],
+  ['run_5fone_5ftest_5fwith_5fno_5frandom_5fcoef_2',['run_one_test_with_no_random_coef',['../tests_8c.html#a91bf3d148f9e2534cef6e88b9d27cc60',1,'run_one_test_with_no_random_coef(const struct quadratic_eq *good_struct, size_t n_test):&#160;tests.c'],['../tests_8h.html#a91bf3d148f9e2534cef6e88b9d27cc60',1,'run_one_test_with_no_random_coef(const struct quadratic_eq *good_struct, size_t n_test):&#160;tests.c']]],
+  ['run_5fone_5ftest_5fwith_5frandom_5fcoef_3',['run_one_test_with_random_coef',['../tests_8c.html#a903399b4e9e294c8bd43a2b95e6e3bba',1,'run_one_test_with_random_coef():&#160;tests.c'],['../tests_8h.html#a5788e86006cd90937a63c13d7af2d2b3',1,'run_one_test_with_random_coef(void):&#160;tests.c']]]
+];

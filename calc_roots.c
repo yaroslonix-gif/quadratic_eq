@@ -67,3 +67,7 @@ void calc_roots_of_quadratic_eq(struct quadratic_eq *quadr_eq) {
 
     return;
 }
+
+double calc_value_of_quadr_eq(struct quadratic_eq *quadr_eq, double x) {
+    return quadr_eq->a * my_pow(x, 2) + quadr_eq->b * x + quadr_eq->c;
+} 

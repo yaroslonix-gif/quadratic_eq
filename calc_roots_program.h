@@ -10,6 +10,10 @@
 #include "expr_solver.h"
 
 
+#define WINDOW_WIDTH 1200
+#define WINDOW_HEIGTH 600
+
+
 struct button {
     double x1, y1, x2, y2;
     char *but_text;
@@ -38,16 +42,17 @@ char *check_buttons();
 
 /*!
 Печатает на окне теущий буффер выражения, упрощенное выражение, решение уравнения
-\param buffer_eq - теущий буффер выражения,
-\param simple_expr - упрощенное выражение,
+\param buffer_eq - теущий буффер выражения
+\param simple_expr - упрощенное выражение
 \param last_solution - решение уравнения
+\param quadr_eq - квадратное уравнение
 */
-void update_window(char *buffer_eq, char *simple_expr, char *last_solution);
+void update_window(char *buffer_eq, char *simple_expr, char *last_solution, struct quadratic_eq *quadr_eq);
 
 /*!
 Выполняет backspace
-\param buffer_eq - теущий буффер выражения, 
-\param now_buf_ind - текущая заполненность буффера,
+\param buffer_eq - теущий буффер выражения
+\param now_buf_ind - текущая заполненность буффера
 \param last_sz_el - длина стирания
 */
 void do_backspace(char *buffer_eq, int *now_buf_ind, int last_sz_el);
@@ -58,3 +63,9 @@ void do_backspace(char *buffer_eq, int *now_buf_ind, int last_sz_el);
 \param now_buf_ind - текущая заполненность буффера
 */
 void reset_buffer(char *buffer_eq, int *now_buf_ind);
+
+/*!
+Отрисовывает график квадратного трехчлена
+\param quadr_eq - квадратное уравнение
+*/
+void draw_grafic(struct quadratic_eq *quadr_eq);

@@ -71,7 +71,7 @@ int run_one_test_with_random_coef() {
 
     calc_roots_of_quadratic_eq(&test_struct);
 
-    if (test_struct.n_roots == 1 && equal(test_struct.a * my_pow(test_struct.x1, 2) + test_struct.b * test_struct.x1 + test_struct.c, 0) == 0) {
+    if (test_struct.n_roots == 1 && equal(calc_value_of_quadr_eq(&test_struct, test_struct.x1), 0) == 0) {
 
         LOGG("Error in test: a = %lf, b = %lf, c = %lf. Out: n_roots = %d, x1 = %lf\n", test_struct.a, test_struct.b, test_struct.c,
             test_struct.n_roots, test_struct.x1);
@@ -79,8 +79,8 @@ int run_one_test_with_random_coef() {
         return 1;
     }
 
-    if (test_struct.n_roots == 2 && (equal(test_struct.a * my_pow(test_struct.x1, 2) + test_struct.b * test_struct.x1 + test_struct.c, 0) == 0 ||
-        equal(test_struct.a * my_pow(test_struct.x2, 2) + test_struct.b * test_struct.x2 + test_struct.c, 0) == 0)) {
+    if (test_struct.n_roots == 2 && (equal(calc_value_of_quadr_eq(&test_struct, test_struct.x1), 0) == 0 ||
+        equal(calc_value_of_quadr_eq(&test_struct, test_struct.x2), 0) == 0)) {
             
         LOGG("Error in test: a = %lf, b = %lf, c = %lf. Out: n_roots = %d, x1 = %lf, x2 = %lf\n", test_struct.a, test_struct.b, test_struct.c,
             test_struct.n_roots, test_struct.x1, test_struct.x2);

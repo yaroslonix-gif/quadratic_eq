@@ -36,7 +36,7 @@ int main() {
 
     struct quadratic_eq quadr_eq = {0};
 
-    txCreateWindow(800, 600);
+    txCreateWindow(WINDOW_WIDTH, 600);
     txTextCursor(0);
     txSetFillColor(TX_BLACK);
     txClear();
@@ -75,8 +75,8 @@ int main() {
 
             print_roots_of_quadratic_eq_to_buf(&quadr_eq, last_solution);
 
-            update_window(buffer_eq, simple_expr, last_solution);
-            txSleep(1000);
+            update_window(buffer_eq, simple_expr, last_solution, &quadr_eq);
+            txSleep(500);
 
         } else if (strlen(but_text) != 0 && now_buf_ind + strlen(but_text) < MAX_LEN_EXPR) {
             if (strcmp(but_text, "x^2") == 0) {
@@ -87,7 +87,7 @@ int main() {
             now_buf_ind += last_sz_el;
         }
 
-        update_window(buffer_eq, simple_expr, last_solution);
+        update_window(buffer_eq, simple_expr, last_solution, &quadr_eq);
         txSleep(300);
 
         last_sz_el = 1;
@@ -98,19 +98,21 @@ int main() {
     return 0;
 }
 
-void update_window(char *buffer_eq, char *simple_expr, char *last_solution) {
+void update_window(char *buffer_eq, char *simple_expr, char *last_solution, struct quadratic_eq *quadr_eq) {
     ALOGG;
     ASSERT(buffer_eq != NULL, NULL_ERROR);
     ASSERT(simple_expr != NULL, NULL_ERROR);
     ASSERT(last_solution != NULL, NULL_ERROR);
+    ASSERT(quadr_eq != NULL, NULL_ERROR);
 
     txBegin();
     txSetFillColor(TX_BLACK);
     txClear();
     draw_buttons();
-    txDrawText(0, 0, 800, 200, buffer_eq);
-    txDrawText(0, 150, 800, 250, simple_expr);
-    txDrawText(0, 200, 800, 300, last_solution);
+    txDrawText(0, 0, 700, 200, buffer_eq);
+    txDrawText(0, 150, 700, 250, simple_expr);
+    txDrawText(0, 200, 700, 300, last_solution);
+    draw_grafic(quadr_eq);
     
     txEnd();
 }
@@ -165,4 +167,49 @@ char *check_buttons() {
     }
 
     return NULL;
+}
+
+void draw_grafic(struct quadratic_eq *quadr_eq) {
+    int width_gr = 400, height_gr = 400;
+    int sdvig_x = 800, sdvig_y = 150;
+
+    int grafic[width_gr][height_gr] = {0};
+
+    int mid_w = width_gr / 2;
+    int mid_h = height_gr / 2;
+
+    for (int y = 0; y < height_gr; y++) {
+        grafic[mid_w - 1][y] = 1;
+    }
+
+    for (int x = 0; x < width_gr; x++) {
+        grafic[x][mid_h + 1] = 1;
+    }
+
+    for (double x = 0; x < width_gr; x += 0.1) {
+
+        double y = calc_value_of_quadr_eq(quadr_eq, x - mid_w);
+        y = ((int)round(mid_h - y));
+
+        if (0 < y && y < height_gr) {
+            grafic[(int)round(x)][(int)y] = 2;
+        }
+    }
+
+    for (int x = 0; x < width_gr; x++) {
+        for (int y = 0; y < height_gr; y++) {
+
+            if (grafic[x][y] == 2 || quadr_eq->n_roots == INF_ROOTS) {
+                txSetPixel(x + sdvig_x, y + sdvig_y, TX_YELLOW);
+                continue;
+            }
+
+            if (grafic[x][y] == 1) {
+                txSetPixel(x + sdvig_x, y + sdvig_y, TX_WHITE);
+                continue;
+            }
+
+            //txSetPixel(x + sdvig_x, y + sdvig_y, TX_BLACK);
+        }
+    }
 }
