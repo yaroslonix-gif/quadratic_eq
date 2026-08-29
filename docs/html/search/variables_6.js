@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['opera_0',['opera',['../unionvalue.html#a04d4a6b38a959855266309cb91de42a9',1,'value']]],
-  ['opera_5fch_1',['opera_ch',['../structconv__op.html#a4deb2677f7a3797941ff34ef7590906a',1,'conv_op']]],
-  ['opera_5fop_2',['opera_op',['../structconv__op.html#a44fe22a107bae447cbfaeee6f3489e10',1,'conv_op']]]
+  ['n_5froots_0',['n_roots',['../structquadratic__eq.html#a0b2be64a841b3ac623845193f2ce6360',1,'quadratic_eq']]],
+  ['name_5fel_1',['name_el',['../structnode.html#aa0bc0b80e6d05128f8a1d5913c16be2d',1,'node']]],
+  ['number_2',['number',['../unionvalue.html#a1ac826c223073ae305bd0bff2a2718cc',1,'value']]]
 ];

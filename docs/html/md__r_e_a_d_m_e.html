@@ -115,14 +115,58 @@ document.addEventListener('DOMContentLoaded',() => { initNavTree('md__r_e_a_d_m_
 <div class="textblock"><p><a class="anchor" id="autotoc_md0"></a></p>
 <p>Этот проект представляет собой программу с графическим интерфейсом, которая определяет корни квадратного уравнения и их количество.</p>
 <h1 class="doxsection"><a class="anchor" id="autotoc_md1"></a>
+Режимы работы</h1>
+<p>&gt;[!IMPORTANT] &gt;В правом верхнем углу программы находится кнопка для смены режима программы, а так же индикатор текущего режима</p>
+<ol type="1">
+<li><b>DEFAULT</b> - стандартный режим работы. Особенности:</li>
+</ol>
+<ul>
+<li>Ввод квадратного уровнения выполняется в окне программы в соответствии с аксиоматикой</li>
+<li>Выполнение рассчётов после нажатия кнопки <b>Solve</b></li>
+<li>Отображение входных данных, их упрощённого вида и решения введённого уравнения</li>
+<li>Отображение части графика введённой функции в определённом диапазоне</li>
+</ul>
+<ol type="1">
+<li><b>DYNAMIC</b> - динамический режим работы. Особенности:</li>
+</ol>
+<ul>
+<li>Ввод коэффициентов квадратного уровнения выполняется в окне программы с помощью слайдеров</li>
+<li>Выполнение рассчётов происходит после изменения любого из значений слайдеров</li>
+<li>Отображение квадратного уравнения и его решения</li>
+<li>Отображение части графика полученной функции в определённом диапазоне</li>
+</ul>
+<h1 class="doxsection"><a class="anchor" id="autotoc_md2"></a>
 Аксиоматика:</h1>
 <ol type="1">
 <li>∀x If ∃ next symbol(ns) → ns = (+ || - || ^2)</li>
-<li>∀ комбинации коэффициента <em>a</em> и <em>x</em> ∃ в двух представления ax || a*x</li>
-<li>После знака "/" ns ∉ {x, 0}</li>
-<li>∀ введенного выражения знак "=" встреяается единожды</li>
+<li>∀ комбинации коэффициента <b>a</b> и <b>x</b> ∃ в двух представления ax || a*x</li>
+<li>После знака "**/**" ns ∉ {x, 0}</li>
+<li>∀ введенного выражения знак "**=**" встреяается единожды</li>
 </ol>
-<p>&gt;[!WARNING] &gt;<em>При нарушении аксиом за дальнейшее поведение программы отвечает пользователь</em> </p>
+<p>&gt;[!WARNING] &gt;<em>При нарушении аксиом за дальнейшее поведение программы отвечает пользователь</em></p>
+<h1 class="doxsection"><a class="anchor" id="autotoc_md3"></a>
+Библиотеки</h1>
+<p>&gt;[!IMPORTANT] &gt;Требуется установить библиотеку <a href="https://sourceforge.net/projects/txlib/">TXLib</a></p>
+<h1 class="doxsection"><a class="anchor" id="autotoc_md4"></a>
+Компиляция</h1>
+<p><b>Ввести в терминал один из пунктов</b></p>
+<ul>
+<li>g++ -w -mwindows <a class="el" href="expr__solver_8c.html">expr_solver.c</a> <a class="el" href="tests_8c.html">tests.c</a> <a class="el" href="base_8c.html">base.c</a> <a class="el" href="calc__roots_8c.html">calc_roots.c</a> <a class="el" href="input__output__mod_8c.html">input_output_mod.c</a> <a class="el" href="calc__roots__program_8c.html">calc_roots_program.c</a> -o calc_roots_program</li>
+<li>start compile.bat</li>
+</ul>
+<h1 class="doxsection"><a class="anchor" id="autotoc_md5"></a>
+Запуск</h1>
+<p><b>Ввести в терминал</b></p>
+<ul>
+<li>./calc_roots_program</li>
+</ul>
+<p><b>Или вручную запустить</b></p>
+<ul>
+<li>calc_roots_program.exe</li>
+</ul>
+<h1 class="doxsection"><a class="anchor" id="autotoc_md6"></a>
+Авторские права</h1>
+<p>© 2026 yaroslonix-gif </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 </div><!-- doc-content -->

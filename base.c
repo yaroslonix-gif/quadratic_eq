@@ -8,7 +8,6 @@ const char *prog_errors[] = {
 };
 
 double flush_to_zero(double num) {
-    ALOGG;
     if (fabs(num) < ZERO_BORDER)
         return 0;
 
@@ -16,7 +15,6 @@ double flush_to_zero(double num) {
 }
 
 int check_diapason_error_for_double(double num) {
-    ALOGG;
     if (-DOUBLE_BORDER > num || num > DOUBLE_BORDER) {
         fprintf(stderr, "%smin = %.4lf, max = %.4lf%s\n", RED, -DOUBLE_BORDER, DOUBLE_BORDER, RESET_COLOR);
 
@@ -27,7 +25,6 @@ int check_diapason_error_for_double(double num) {
 }
 
 double my_pow(double a, int pw) {
-    ALOGG;
     double res = 1;
 
     for (int i = 0; i < pw; i++)
@@ -37,6 +34,5 @@ double my_pow(double a, int pw) {
 }
 
 int equal(double a, double b) {
-    ALOGG;
     return fabs(a - b) <= ZERO_BORDER;
 }

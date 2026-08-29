@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['update_5fwindow_5fdefault_5fmode_0',['update_window_default_mode',['../calc__roots__program_8c.html#a94b946611dedf07a6911a492a49b978e',1,'update_window_default_mode(char *buffer_eq, char *simple_expr, char *last_solution, struct quadratic_eq *quadr_eq, enum prog_mode cur_mode):&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#a94b946611dedf07a6911a492a49b978e',1,'update_window_default_mode(char *buffer_eq, char *simple_expr, char *last_solution, struct quadratic_eq *quadr_eq, enum prog_mode cur_mode):&#160;calc_roots_program.c']]],
+  ['update_5fwindow_5fdynamic_5fmode_1',['update_window_dynamic_mode',['../calc__roots__program_8c.html#a46895bfa9fae445c2e37b90d380ee5f7',1,'update_window_dynamic_mode(double sliders_value[], char *simple_expr, char *last_solution, struct quadratic_eq *pt_quadr_eq, enum prog_mode cur_mode):&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#a46895bfa9fae445c2e37b90d380ee5f7',1,'update_window_dynamic_mode(double sliders_value[], char *simple_expr, char *last_solution, struct quadratic_eq *pt_quadr_eq, enum prog_mode cur_mode):&#160;calc_roots_program.c']]]
+];

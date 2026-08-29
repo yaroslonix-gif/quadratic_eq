@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['size_5fof_5fbuttons_0',['size_of_buttons',['../calc__roots__program_8c.html#a308d0579e75c03886c4778ddb57b887c',1,'size_of_buttons:&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#a308d0579e75c03886c4778ddb57b887c',1,'size_of_buttons:&#160;calc_roots_program.c']]],
-  ['sz_5fconv_5foperators_1',['sz_conv_operators',['../expr__solver_8h.html#a344abe74df06f1a8cc684bad79aad122',1,'expr_solver.h']]]
+  ['prioritet_0',['prioritet',['../structconv__op.html#afc27c30e8644a62de4f13254e3ee7650',1,'conv_op']]],
+  ['prog_5ferrors_1',['prog_errors',['../base_8c.html#ab149ba52209183aa4a3b92b5a2297914',1,'prog_errors:&#160;base.c'],['../base_8h.html#ab149ba52209183aa4a3b92b5a2297914',1,'prog_errors:&#160;base.c']]],
+  ['prog_5fmodes_2',['prog_modes',['../calc__roots__program_8c.html#a51b6f5dcb0403f313aeff4cb8b537776',1,'prog_modes:&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#a51b6f5dcb0403f313aeff4cb8b537776',1,'prog_modes:&#160;calc_roots_program.c']]]
 ];

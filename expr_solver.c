@@ -176,14 +176,14 @@ int solve_expr(char *expr) {
     return ans;
 }
 
-int find_low_op(struct node expr_n[], int l, int r) {
+int find_low_op(struct node expr_n[], int left, int right) {
     ALOGG;
     ASSERT(expr_n != NULL, NULL_ERROR);
 
     int min_op = 100;
     int min_op_ind = -1;
 
-    for (int num_ch = l; num_ch < r; num_ch++) {
+    for (int num_ch = left; num_ch < right; num_ch++) {
         if (expr_n[num_ch].type_el == OPERATOR) {
             if (min_op >= get_prioritet(expr_n[num_ch])) {
                 min_op = get_prioritet(expr_n[num_ch]);
@@ -195,25 +195,25 @@ int find_low_op(struct node expr_n[], int l, int r) {
     return min_op_ind;
 }
 
-int calc(struct node expr_n[], int l, int r) {
+int calc(struct node expr_n[], int left, int right) {
     ALOGG;
     ASSERT(expr_n != NULL, NULL_ERROR);
 
-    if (r - l == 0) {
+    if (right - left == 0) {
         return 0;
     }
 
-    if (r - l == 1) {
-        return expr_n[l].value_el.number;
+    if (right - left == 1) {
+        return expr_n[left].value_el.number;
     }
 
-    int low_op = find_low_op(expr_n, l, r);
+    int low_op = find_low_op(expr_n, left, right);
     if (low_op == -1) {
-        return convert_nodes_to_number(expr_n, l, r);
+        return convert_nodes_to_number(expr_n, left, right);
     }
 
-    int left_value = calc(expr_n, l, low_op);
-    int right_value = calc(expr_n, low_op + 1, r);
+    int left_value = calc(expr_n, left, low_op);
+    int right_value = calc(expr_n, low_op + 1, right);
     
     OPERATION(expr_n[low_op].value_el.opera, left_value, right_value);
 }
@@ -233,12 +233,12 @@ int convert_to_digit(char ch) {
     return (ch - '0');
 }
 
-int convert_nodes_to_number(struct node expr_n[], int l, int r) {
+int convert_nodes_to_number(struct node expr_n[], int left, int right) {
     ALOGG;
     ASSERT(expr_n != NULL, NULL_ERROR);
 
     int num = 0;
-    for (int num_of_node = l; num_of_node < r; num_of_node++) {
+    for (int num_of_node = left; num_of_node < right; num_of_node++) {
         if (expr_n[num_of_node].type_el == NUMBER)
             num = num * 10 + expr_n[num_of_node].value_el.number;
     }

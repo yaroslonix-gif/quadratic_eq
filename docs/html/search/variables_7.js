@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['prioritet_0',['prioritet',['../structconv__op.html#afc27c30e8644a62de4f13254e3ee7650',1,'conv_op']]],
-  ['prog_5ferrors_1',['prog_errors',['../base_8c.html#ab149ba52209183aa4a3b92b5a2297914',1,'prog_errors:&#160;base.c'],['../base_8h.html#ab149ba52209183aa4a3b92b5a2297914',1,'prog_errors:&#160;base.c']]]
+  ['opera_0',['opera',['../unionvalue.html#a04d4a6b38a959855266309cb91de42a9',1,'value']]],
+  ['opera_5fch_1',['opera_ch',['../structconv__op.html#a4deb2677f7a3797941ff34ef7590906a',1,'conv_op']]],
+  ['opera_5fop_2',['opera_op',['../structconv__op.html#a44fe22a107bae447cbfaeee6f3489e10',1,'conv_op']]]
 ];

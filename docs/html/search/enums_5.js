@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['type_0',['type',['../expr__solver_8h.html#a7aead736a07eaf25623ad7bfa1f0ee2d',1,'expr_solver.h']]]
+  ['prog_5fmode_0',['prog_mode',['../calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826',1,'calc_roots_program.h']]]
 ];

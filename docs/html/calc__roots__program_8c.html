@@ -117,19 +117,58 @@ document.addEventListener('DOMContentLoaded',() => { initNavTree('calc__roots__p
 <tr class="heading"><td colspan="2"><h2 id="header-func-members" class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ae66f6b31b5ad750f1fe042a706a4e3d4" id="r_ae66f6b31b5ad750f1fe042a706a4e3d4"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#ae66f6b31b5ad750f1fe042a706a4e3d4">main</a> ()</td></tr>
-<tr class="memitem:ac74ff891f460dc6c0af9ea520c85cc47" id="r_ac74ff891f460dc6c0af9ea520c85cc47"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#ac74ff891f460dc6c0af9ea520c85cc47">update_window</a> (char *buffer_eq, char *simple_expr, char *last_solution, struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *quadr_eq)</td></tr>
+<tr class="memitem:a94b946611dedf07a6911a492a49b978e" id="r_a94b946611dedf07a6911a492a49b978e"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a94b946611dedf07a6911a492a49b978e">update_window_default_mode</a> (char *buffer_eq, char *simple_expr, char *last_solution, struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *quadr_eq, enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> cur_mode)</td></tr>
 <tr class="memitem:a5680af211c9098bec52d8c5a9ef7d515" id="r_a5680af211c9098bec52d8c5a9ef7d515"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a5680af211c9098bec52d8c5a9ef7d515">do_backspace</a> (char *buffer_eq, int *now_buf_ind, int last_sz_el)</td></tr>
 <tr class="memitem:aae2b78cf7ebef8ea0485802a364b1f61" id="r_aae2b78cf7ebef8ea0485802a364b1f61"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#aae2b78cf7ebef8ea0485802a364b1f61">reset_buffer</a> (char *buffer_eq, int *now_buf_ind)</td></tr>
 <tr class="memitem:a620fd28f0662fd27061296dc73763a0e" id="r_a620fd28f0662fd27061296dc73763a0e"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a620fd28f0662fd27061296dc73763a0e">draw_buttons</a> ()</td></tr>
 <tr class="memitem:a21bb997c0e1e0d3fb4a9e6994c716e97" id="r_a21bb997c0e1e0d3fb4a9e6994c716e97"><td class="memItemLeft">char *&#160;</td><td class="memItemRight"><a class="el" href="#a21bb997c0e1e0d3fb4a9e6994c716e97">check_buttons</a> ()</td></tr>
 <tr class="memitem:ad47bed236e66d67c7697a2c7cc83272f" id="r_ad47bed236e66d67c7697a2c7cc83272f"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#ad47bed236e66d67c7697a2c7cc83272f">draw_grafic</a> (struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *quadr_eq)</td></tr>
+<tr class="memitem:a7a2556cd577df220c426af8e3e258107" id="r_a7a2556cd577df220c426af8e3e258107"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a7a2556cd577df220c426af8e3e258107">draw_mode_button</a> (const enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> cur_mode)</td></tr>
+<tr class="memitem:a7a4830670b2a762a3f88d1925423134e" id="r_a7a4830670b2a762a3f88d1925423134e"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#a7a4830670b2a762a3f88d1925423134e">index_of_cur_mode</a> (const enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> cur_mode)</td></tr>
+<tr class="memitem:af5825bc2fe8c7de7479b3961bd34a71f" id="r_af5825bc2fe8c7de7479b3961bd34a71f"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#af5825bc2fe8c7de7479b3961bd34a71f">check_button_mode</a> (enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> *cur_mode)</td></tr>
+<tr class="memitem:ae4680e9d1d930485b253410939ce8813" id="r_ae4680e9d1d930485b253410939ce8813"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#ae4680e9d1d930485b253410939ce8813">run_default_mode</a> (char *buffer_eq, char *simple_expr, char *last_solution, struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *pt_quadr_eq, int *pt_now_buf_ind, enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> cur_mode)</td></tr>
+<tr class="memitem:a46895bfa9fae445c2e37b90d380ee5f7" id="r_a46895bfa9fae445c2e37b90d380ee5f7"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a46895bfa9fae445c2e37b90d380ee5f7">update_window_dynamic_mode</a> (double sliders_value[], char *simple_expr, char *last_solution, struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *pt_quadr_eq, enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> cur_mode)</td></tr>
+<tr class="memitem:a20c7cc06f55a4a9273331c727943bf4d" id="r_a20c7cc06f55a4a9273331c727943bf4d"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a20c7cc06f55a4a9273331c727943bf4d">run_dynamic_mode</a> (double sliders_value[], char *simple_expr, char *last_solution, struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *pt_quadr_eq, enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> cur_mode)</td></tr>
+<tr class="memitem:a4ef0a35615fd2f9c8fca02bd6ef1ecad" id="r_a4ef0a35615fd2f9c8fca02bd6ef1ecad"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a4ef0a35615fd2f9c8fca02bd6ef1ecad">draw_button</a> (const struct <a class="el" href="structbutton.html">button</a> but)</td></tr>
+<tr class="memitem:a87077a9848ed8c55851fee4a13eb7a88" id="r_a87077a9848ed8c55851fee4a13eb7a88"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a87077a9848ed8c55851fee4a13eb7a88">draw_slider</a> (const struct <a class="el" href="structslider.html">slider</a> cur_slider, double value)</td></tr>
+<tr class="memitem:adfaed0d06c8c65591b9a3e9011b3994d" id="r_adfaed0d06c8c65591b9a3e9011b3994d"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#adfaed0d06c8c65591b9a3e9011b3994d">check_sliders</a> (double sliders_value[])</td></tr>
+<tr class="memitem:a40d02dc95044b65e22fa5bba0156239c" id="r_a40d02dc95044b65e22fa5bba0156239c"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a40d02dc95044b65e22fa5bba0156239c">draw_sliders</a> (double sliders_value[])</td></tr>
+<tr class="memitem:a847ff5957e67d5aeea443d01e3964f80" id="r_a847ff5957e67d5aeea443d01e3964f80"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a847ff5957e67d5aeea443d01e3964f80">set_coefs_for_eq_from_sliders</a> (double sliders_value[], struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *pt_quadr_eq)</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 id="header-var-members" class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
 <tr class="memitem:ab99a7d9131f73d64f451b52659a32535" id="r_ab99a7d9131f73d64f451b52659a32535"><td class="memItemLeft">const struct <a class="el" href="structbutton.html">button</a>&#160;</td><td class="memItemRight"><a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a> []</td></tr>
-<tr class="memitem:a308d0579e75c03886c4778ddb57b887c" id="r_a308d0579e75c03886c4778ddb57b887c"><td class="memItemLeft">size_t&#160;</td><td class="memItemRight"><a class="el" href="#a308d0579e75c03886c4778ddb57b887c">size_of_buttons</a> = sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>) / sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>[0])</td></tr>
+<tr class="memitem:a6a93773440be766d1c0ec1ac4091ab97" id="r_a6a93773440be766d1c0ec1ac4091ab97"><td class="memItemLeft">const size_t&#160;</td><td class="memItemRight"><a class="el" href="#a6a93773440be766d1c0ec1ac4091ab97">size_of_buttons</a> = sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>) / sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>[0])</td></tr>
+<tr class="memitem:a51b6f5dcb0403f313aeff4cb8b537776" id="r_a51b6f5dcb0403f313aeff4cb8b537776"><td class="memItemLeft">const struct <a class="el" href="structname__of__prog__mode.html">name_of_prog_mode</a>&#160;</td><td class="memItemRight"><a class="el" href="#a51b6f5dcb0403f313aeff4cb8b537776">prog_modes</a> []</td></tr>
+<tr class="memitem:a5b6d261dcf0b9cd7b19089f53d04c503" id="r_a5b6d261dcf0b9cd7b19089f53d04c503"><td class="memItemLeft">const size_t&#160;</td><td class="memItemRight"><a class="el" href="#a5b6d261dcf0b9cd7b19089f53d04c503">size_of_prog_modes</a> = sizeof(<a class="el" href="#a51b6f5dcb0403f313aeff4cb8b537776">prog_modes</a>) / sizeof(<a class="el" href="#a51b6f5dcb0403f313aeff4cb8b537776">prog_modes</a>[0])</td></tr>
+<tr class="memitem:a0ae25f0760c59839e4144662ae5d7c84" id="r_a0ae25f0760c59839e4144662ae5d7c84"><td class="memItemLeft">const struct <a class="el" href="structbutton.html">button</a>&#160;</td><td class="memItemRight"><a class="el" href="#a0ae25f0760c59839e4144662ae5d7c84">mode_button</a> = {0, 0, 125, 40, &quot;CHANGE_MODE&quot;}</td></tr>
+<tr class="memitem:a9d3f272c7ef9d93a925f74e817ea5ec7" id="r_a9d3f272c7ef9d93a925f74e817ea5ec7"><td class="memItemLeft">const struct <a class="el" href="structslider.html">slider</a>&#160;</td><td class="memItemRight"><a class="el" href="#a9d3f272c7ef9d93a925f74e817ea5ec7">sliders</a> []</td></tr>
+<tr class="memitem:a0c0e5e39df9bc2bddb9ce4087d66ae3f" id="r_a0c0e5e39df9bc2bddb9ce4087d66ae3f"><td class="memItemLeft">const size_t&#160;</td><td class="memItemRight"><a class="el" href="#a0c0e5e39df9bc2bddb9ce4087d66ae3f">size_of_sliders</a> = sizeof(<a class="el" href="#a9d3f272c7ef9d93a925f74e817ea5ec7">sliders</a>) / sizeof(<a class="el" href="#a9d3f272c7ef9d93a925f74e817ea5ec7">sliders</a>[0])</td></tr>
 </table>
 <a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Function Documentation</h2>
+<a id="af5825bc2fe8c7de7479b3961bd34a71f" name="af5825bc2fe8c7de7479b3961bd34a71f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5825bc2fe8c7de7479b3961bd34a71f">&#9670;&#160;</a></span>check_button_mode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void check_button_mode </td>
+          <td>(</td>
+          <td class="paramtype">enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a> *</td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Проверяет нажатие кнопки смены режима программы </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a21bb997c0e1e0d3fb4a9e6994c716e97" name="a21bb997c0e1e0d3fb4a9e6994c716e97"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a21bb997c0e1e0d3fb4a9e6994c716e97">&#9670;&#160;</a></span>check_buttons()</h2>
 
@@ -145,6 +184,29 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Обрабатывает нажатие кнопки </p><dl class="section return"><dt>Returns</dt><dd>текст кнопки или NULL, если никакая кнопка не была нажата </dd></dl>
+
+</div>
+</div>
+<a id="adfaed0d06c8c65591b9a3e9011b3994d" name="adfaed0d06c8c65591b9a3e9011b3994d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfaed0d06c8c65591b9a3e9011b3994d">&#9670;&#160;</a></span>check_sliders()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void check_sliders </td>
+          <td>(</td>
+          <td class="paramtype">double</td>          <td class="paramname"><span class="paramname"><em>sliders_value</em></span>[]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Обрабатывает изменение значений слайдеров </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sliders_value</td><td>- значения слайдеров </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -176,6 +238,29 @@ Variables</h2></td></tr>
     <tr><td class="paramname">buffer_eq</td><td>- теущий буффер выражения </td></tr>
     <tr><td class="paramname">now_buf_ind</td><td>- текущая заполненность буффера </td></tr>
     <tr><td class="paramname">last_sz_el</td><td>- длина стирания </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a4ef0a35615fd2f9c8fca02bd6ef1ecad" name="a4ef0a35615fd2f9c8fca02bd6ef1ecad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ef0a35615fd2f9c8fca02bd6ef1ecad">&#9670;&#160;</a></span>draw_button()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void draw_button </td>
+          <td>(</td>
+          <td class="paramtype">const struct <a class="el" href="structbutton.html">button</a></td>          <td class="paramname"><span class="paramname"><em>but</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Отрисовывает элемент управления(кнопку) </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">but</td><td>- кнопка </td></tr>
   </table>
   </dd>
 </dl>
@@ -220,6 +305,104 @@ Variables</h2></td></tr>
   </table>
   </dd>
 </dl>
+
+</div>
+</div>
+<a id="a7a2556cd577df220c426af8e3e258107" name="a7a2556cd577df220c426af8e3e258107"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a2556cd577df220c426af8e3e258107">&#9670;&#160;</a></span>draw_mode_button()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void draw_mode_button </td>
+          <td>(</td>
+          <td class="paramtype">const enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a></td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Отрисовывает кнопку смены режима и текущий режим </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a87077a9848ed8c55851fee4a13eb7a88" name="a87077a9848ed8c55851fee4a13eb7a88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a87077a9848ed8c55851fee4a13eb7a88">&#9670;&#160;</a></span>draw_slider()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void draw_slider </td>
+          <td>(</td>
+          <td class="paramtype">const struct <a class="el" href="structslider.html">slider</a></td>          <td class="paramname"><span class="paramname"><em>cur_slider</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">double</td>          <td class="paramname"><span class="paramname"><em>value</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Отрисовывает элемент управления(слайдер) </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">cur_slider</td><td>- слайдер </td></tr>
+    <tr><td class="paramname">value</td><td>- значение слайдера </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a40d02dc95044b65e22fa5bba0156239c" name="a40d02dc95044b65e22fa5bba0156239c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40d02dc95044b65e22fa5bba0156239c">&#9670;&#160;</a></span>draw_sliders()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void draw_sliders </td>
+          <td>(</td>
+          <td class="paramtype">double</td>          <td class="paramname"><span class="paramname"><em>sliders_value</em></span>[]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Отрисовывает элементы управления(слайдеры) </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sliders_value</td><td>- значения слайдеров </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a7a4830670b2a762a3f88d1925423134e" name="a7a4830670b2a762a3f88d1925423134e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a4830670b2a762a3f88d1925423134e">&#9670;&#160;</a></span>index_of_cur_mode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int index_of_cur_mode </td>
+          <td>(</td>
+          <td class="paramtype">const enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a></td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Возвращает индекс текущего режима программы по списку режимов </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>индекс текущего режима </dd></dl>
 
 </div>
 </div>
@@ -268,14 +451,14 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="ac74ff891f460dc6c0af9ea520c85cc47" name="ac74ff891f460dc6c0af9ea520c85cc47"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac74ff891f460dc6c0af9ea520c85cc47">&#9670;&#160;</a></span>update_window()</h2>
+<a id="ae4680e9d1d930485b253410939ce8813" name="ae4680e9d1d930485b253410939ce8813"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4680e9d1d930485b253410939ce8813">&#9670;&#160;</a></span>run_default_mode()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void update_window </td>
+          <td class="memname">void run_default_mode </td>
           <td>(</td>
           <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>buffer_eq</em></span>, </td>
         </tr>
@@ -292,16 +475,194 @@ Variables</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *</td>          <td class="paramname"><span class="paramname"><em>quadr_eq</em></span>&#160;)</td>
+          <td class="paramtype">struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *</td>          <td class="paramname"><span class="paramname"><em>quadr_eq</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int *</td>          <td class="paramname"><span class="paramname"><em>pt_now_buf_ind</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a></td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Печатает на окне теущий буффер выражения, упрощенное выражение, решение уравнения </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Режим DEFAULT окно с кнопками для ввода квадратного ур-я и отображения решений в текстовом и графическом выводе </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">buffer_eq</td><td>- теущий буффер выражения </td></tr>
     <tr><td class="paramname">simple_expr</td><td>- упрощенное выражение </td></tr>
     <tr><td class="paramname">last_solution</td><td>- решение уравнения </td></tr>
     <tr><td class="paramname">quadr_eq</td><td>- квадратное уравнение </td></tr>
+    <tr><td class="paramname">pt_now_buf_ind</td><td>- указатель на текущую заполненность программы </td></tr>
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a20c7cc06f55a4a9273331c727943bf4d" name="a20c7cc06f55a4a9273331c727943bf4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a20c7cc06f55a4a9273331c727943bf4d">&#9670;&#160;</a></span>run_dynamic_mode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void run_dynamic_mode </td>
+          <td>(</td>
+          <td class="paramtype">double</td>          <td class="paramname"><span class="paramname"><em>sliders_value</em></span>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>simple_expr</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>last_solution</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *</td>          <td class="paramname"><span class="paramname"><em>pt_quadr_eq</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a></td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Режим DYNAMIC окно с слайдерами для установки коэффициентов квадратного уравнения, с текстовым и графическим выводом </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sliders_value</td><td>- значения слайдеров </td></tr>
+    <tr><td class="paramname">simple_expr</td><td>- упрощенное выражение </td></tr>
+    <tr><td class="paramname">last_solution</td><td>- решение уравнения </td></tr>
+    <tr><td class="paramname">pt_quadr_eq</td><td>- указатель на квадратное уравнение </td></tr>
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a847ff5957e67d5aeea443d01e3964f80" name="a847ff5957e67d5aeea443d01e3964f80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a847ff5957e67d5aeea443d01e3964f80">&#9670;&#160;</a></span>set_coefs_for_eq_from_sliders()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void set_coefs_for_eq_from_sliders </td>
+          <td>(</td>
+          <td class="paramtype">double</td>          <td class="paramname"><span class="paramname"><em>sliders_value</em></span>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *</td>          <td class="paramname"><span class="paramname"><em>pt_quadr_eq</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Передает значения слайдеров в квадратное уравнение </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sliders_value</td><td>- значения слайдеров </td></tr>
+    <tr><td class="paramname">pt_quadr_eq</td><td>- указатель на квадратное уравнение </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a94b946611dedf07a6911a492a49b978e" name="a94b946611dedf07a6911a492a49b978e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94b946611dedf07a6911a492a49b978e">&#9670;&#160;</a></span>update_window_default_mode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void update_window_default_mode </td>
+          <td>(</td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>buffer_eq</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>simple_expr</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>last_solution</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *</td>          <td class="paramname"><span class="paramname"><em>quadr_eq</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a></td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Печатает на окне теущий буффер выражения, упрощенное выражение, решение уравнения при режиме DEFAULT </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">buffer_eq</td><td>- теущий буффер выражения </td></tr>
+    <tr><td class="paramname">simple_expr</td><td>- упрощенное выражение </td></tr>
+    <tr><td class="paramname">last_solution</td><td>- решение уравнения </td></tr>
+    <tr><td class="paramname">quadr_eq</td><td>- квадратное уравнение </td></tr>
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a46895bfa9fae445c2e37b90d380ee5f7" name="a46895bfa9fae445c2e37b90d380ee5f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46895bfa9fae445c2e37b90d380ee5f7">&#9670;&#160;</a></span>update_window_dynamic_mode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void update_window_dynamic_mode </td>
+          <td>(</td>
+          <td class="paramtype">double</td>          <td class="paramname"><span class="paramname"><em>sliders_value</em></span>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>simple_expr</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>last_solution</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct <a class="el" href="structquadratic__eq.html">quadratic_eq</a> *</td>          <td class="paramname"><span class="paramname"><em>pt_quadr_eq</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">enum <a class="el" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826">prog_mode</a></td>          <td class="paramname"><span class="paramname"><em>cur_mode</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Отрисовка окна программы в режиме DYNAMIC </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">sliders_value</td><td>- значения слайдеров </td></tr>
+    <tr><td class="paramname">simple_expr</td><td>- упрощенное выражение </td></tr>
+    <tr><td class="paramname">last_solution</td><td>- решение уравнения </td></tr>
+    <tr><td class="paramname">pt_quadr_eq</td><td>- указатель на квадратное уравнение </td></tr>
+    <tr><td class="paramname">cur_mode</td><td>- текущий режим программы </td></tr>
   </table>
   </dd>
 </dl>
@@ -346,18 +707,99 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a308d0579e75c03886c4778ddb57b887c" name="a308d0579e75c03886c4778ddb57b887c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a308d0579e75c03886c4778ddb57b887c">&#9670;&#160;</a></span>size_of_buttons</h2>
+<a id="a0ae25f0760c59839e4144662ae5d7c84" name="a0ae25f0760c59839e4144662ae5d7c84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ae25f0760c59839e4144662ae5d7c84">&#9670;&#160;</a></span>mode_button</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">size_t size_of_buttons = sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>) / sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>[0])</td>
+          <td class="memname">const struct <a class="el" href="structbutton.html">button</a> mode_button = {0, 0, 125, 40, &quot;CHANGE_MODE&quot;}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+</div>
+</div>
+<a id="a51b6f5dcb0403f313aeff4cb8b537776" name="a51b6f5dcb0403f313aeff4cb8b537776"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51b6f5dcb0403f313aeff4cb8b537776">&#9670;&#160;</a></span>prog_modes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const struct <a class="el" href="structname__of__prog__mode.html">name_of_prog_mode</a> prog_modes[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">                              = {</div>
+<div class="line">    {.mode_mode = <a class="code hl_enumvalue" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826a922bb852c903d318ee70b2d4045c7687">DEFAULT_MODE</a>, .mode_name = <span class="stringliteral">&quot;DEFAULT_MODE&quot;</span>},</div>
+<div class="line">    {.mode_mode = <a class="code hl_enumvalue" href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826ad2b435a7f0766914a7cf9638a6ac48f8">DYNAMIC_MODE</a>, .mode_name = <span class="stringliteral">&quot;DYNAMIC_MODE&quot;</span>}</div>
+<div class="line">}</div>
+<div class="ttc" id="acalc__roots__program_8h_html_aa078934b418fbdf95ad0e79e528cf826a922bb852c903d318ee70b2d4045c7687"><div class="ttname"><a href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826a922bb852c903d318ee70b2d4045c7687">DEFAULT_MODE</a></div><div class="ttdeci">@ DEFAULT_MODE</div><div class="ttdef"><b>Definition</b> calc_roots_program.h:29</div></div>
+<div class="ttc" id="acalc__roots__program_8h_html_aa078934b418fbdf95ad0e79e528cf826ad2b435a7f0766914a7cf9638a6ac48f8"><div class="ttname"><a href="calc__roots__program_8h.html#aa078934b418fbdf95ad0e79e528cf826ad2b435a7f0766914a7cf9638a6ac48f8">DYNAMIC_MODE</a></div><div class="ttdeci">@ DYNAMIC_MODE</div><div class="ttdef"><b>Definition</b> calc_roots_program.h:30</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6a93773440be766d1c0ec1ac4091ab97" name="a6a93773440be766d1c0ec1ac4091ab97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a93773440be766d1c0ec1ac4091ab97">&#9670;&#160;</a></span>size_of_buttons</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const size_t size_of_buttons = sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>) / sizeof(<a class="el" href="#ab99a7d9131f73d64f451b52659a32535">buttons</a>[0])</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5b6d261dcf0b9cd7b19089f53d04c503" name="a5b6d261dcf0b9cd7b19089f53d04c503"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b6d261dcf0b9cd7b19089f53d04c503">&#9670;&#160;</a></span>size_of_prog_modes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const size_t size_of_prog_modes = sizeof(<a class="el" href="#a51b6f5dcb0403f313aeff4cb8b537776">prog_modes</a>) / sizeof(<a class="el" href="#a51b6f5dcb0403f313aeff4cb8b537776">prog_modes</a>[0])</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0c0e5e39df9bc2bddb9ce4087d66ae3f" name="a0c0e5e39df9bc2bddb9ce4087d66ae3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c0e5e39df9bc2bddb9ce4087d66ae3f">&#9670;&#160;</a></span>size_of_sliders</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const size_t size_of_sliders = sizeof(<a class="el" href="#a9d3f272c7ef9d93a925f74e817ea5ec7">sliders</a>) / sizeof(<a class="el" href="#a9d3f272c7ef9d93a925f74e817ea5ec7">sliders</a>[0])</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9d3f272c7ef9d93a925f74e817ea5ec7" name="a9d3f272c7ef9d93a925f74e817ea5ec7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d3f272c7ef9d93a925f74e817ea5ec7">&#9670;&#160;</a></span>sliders</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const struct <a class="el" href="structslider.html">slider</a> sliders[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">                   = {</div>
+<div class="line">    {100, 300, 500, 325, <span class="stringliteral">&quot;a&quot;</span>,   -2,   2},</div>
+<div class="line">    {100, 400, 500, 425, <span class="stringliteral">&quot;b&quot;</span>, -100, 100},</div>
+<div class="line">    {100, 500, 500, 525, <span class="stringliteral">&quot;c&quot;</span>, -100, 100}</div>
+<div class="line">}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
