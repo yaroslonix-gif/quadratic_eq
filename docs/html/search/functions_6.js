@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['main_0',['main',['../calc__roots__program_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'calc_roots_program.c']]],
-  ['my_5fpow_1',['my_pow',['../base_8c.html#a6c4b82185090fb7fc2c6089280ae2f50',1,'my_pow(double a, int pw):&#160;base.c'],['../base_8h.html#a6c4b82185090fb7fc2c6089280ae2f50',1,'my_pow(double a, int pw):&#160;base.c']]]
+  ['index_5fof_5fcur_5fmode_0',['index_of_cur_mode',['../calc__roots__program_8c.html#a7a4830670b2a762a3f88d1925423134e',1,'index_of_cur_mode(const enum prog_mode cur_mode):&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#a7a4830670b2a762a3f88d1925423134e',1,'index_of_cur_mode(const enum prog_mode cur_mode):&#160;calc_roots_program.c']]]
 ];

@@ -26,7 +26,12 @@ var NAVTREE =
 [
   [ "Quadratic_equation", "index.html", [
     [ "Программа для вычисления корней квадратного уравнения calc_roots_program_from_file", "md__r_e_a_d_m_e.html", [
-      [ "Аксиоматика:", "md__r_e_a_d_m_e.html#autotoc_md1", null ]
+      [ "Режимы работы", "md__r_e_a_d_m_e.html#autotoc_md1", null ],
+      [ "Аксиоматика:", "md__r_e_a_d_m_e.html#autotoc_md2", null ],
+      [ "Библиотеки", "md__r_e_a_d_m_e.html#autotoc_md3", null ],
+      [ "Компиляция", "md__r_e_a_d_m_e.html#autotoc_md4", null ],
+      [ "Запуск", "md__r_e_a_d_m_e.html#autotoc_md5", null ],
+      [ "Авторские права", "md__r_e_a_d_m_e.html#autotoc_md6", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],

@@ -121,11 +121,11 @@ Functions</h2></td></tr>
 <tr class="memitem:ad7bb8fa42cb755dc23763d47ee0dbbff" id="r_ad7bb8fa42cb755dc23763d47ee0dbbff"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#ad7bb8fa42cb755dc23763d47ee0dbbff">calc_coefs_from_expr</a> (char eq[], int *a, int *b, int *c)</td></tr>
 <tr class="memitem:a2fc8d7ec7c145cf66a91492da9d9b02e" id="r_a2fc8d7ec7c145cf66a91492da9d9b02e"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a2fc8d7ec7c145cf66a91492da9d9b02e">push_1_after_add_or_sub_if_only_sign_in_buf</a> (char *cur_buf)</td></tr>
 <tr class="memitem:a9408f2ff01add0ce86494a7afdd02f3c" id="r_a9408f2ff01add0ce86494a7afdd02f3c"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#a9408f2ff01add0ce86494a7afdd02f3c">solve_expr</a> (char *expr)</td></tr>
-<tr class="memitem:aa01d045fc6b836513270498028e351ab" id="r_aa01d045fc6b836513270498028e351ab"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#aa01d045fc6b836513270498028e351ab">find_low_op</a> (struct <a class="el" href="structnode.html">node</a> expr_n[], int l, int r)</td></tr>
-<tr class="memitem:ab3c7f636a8131513a532d8adc5231bfb" id="r_ab3c7f636a8131513a532d8adc5231bfb"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#ab3c7f636a8131513a532d8adc5231bfb">calc</a> (struct <a class="el" href="structnode.html">node</a> expr_n[], int l, int r)</td></tr>
+<tr class="memitem:a88a46619a04271cfd77820d15b9295d3" id="r_a88a46619a04271cfd77820d15b9295d3"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#a88a46619a04271cfd77820d15b9295d3">find_low_op</a> (struct <a class="el" href="structnode.html">node</a> expr_n[], int left, int right)</td></tr>
+<tr class="memitem:ab343447e628a95f8e5f40a2ec6724bce" id="r_ab343447e628a95f8e5f40a2ec6724bce"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#ab343447e628a95f8e5f40a2ec6724bce">calc</a> (struct <a class="el" href="structnode.html">node</a> expr_n[], int left, int right)</td></tr>
 <tr class="memitem:ae5df54eee82ed9c92257be09dee13011" id="r_ae5df54eee82ed9c92257be09dee13011"><td class="memItemLeft">enum <a class="el" href="expr__solver_8h.html#a99a30df0f2488360cdd46b4b88e5f5f0">op</a>&#160;</td><td class="memItemRight"><a class="el" href="#ae5df54eee82ed9c92257be09dee13011">convert_to_op</a> (char ch)</td></tr>
 <tr class="memitem:ac62051e2eaef9073ca23fa70954158e4" id="r_ac62051e2eaef9073ca23fa70954158e4"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#ac62051e2eaef9073ca23fa70954158e4">convert_to_digit</a> (char ch)</td></tr>
-<tr class="memitem:a12367fa7a57a75610a1f59a74b0d3dc4" id="r_a12367fa7a57a75610a1f59a74b0d3dc4"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#a12367fa7a57a75610a1f59a74b0d3dc4">convert_nodes_to_number</a> (struct <a class="el" href="structnode.html">node</a> expr_n[], int l, int r)</td></tr>
+<tr class="memitem:ac7a921d92bc12a07216f6c13b37bd81d" id="r_ac7a921d92bc12a07216f6c13b37bd81d"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#ac7a921d92bc12a07216f6c13b37bd81d">convert_nodes_to_number</a> (struct <a class="el" href="structnode.html">node</a> expr_n[], int left, int right)</td></tr>
 <tr class="memitem:ad28d4baba4f782e390e9bf3ed8c75eb4" id="r_ad28d4baba4f782e390e9bf3ed8c75eb4"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#ad28d4baba4f782e390e9bf3ed8c75eb4">add_str_s2_to_s1</a> (char *s1, char *s2)</td></tr>
 <tr class="memitem:a9899f4f0eaadb9844c898eb1641013f6" id="r_a9899f4f0eaadb9844c898eb1641013f6"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a9899f4f0eaadb9844c898eb1641013f6">free_buffer</a> (char *buffer)</td></tr>
 <tr class="memitem:a3a2c2722804d5d299f61bfa2e434a75a" id="r_a3a2c2722804d5d299f61bfa2e434a75a"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a3a2c2722804d5d299f61bfa2e434a75a">destroy_multiply_x</a> (char *expr)</td></tr>
@@ -160,8 +160,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="ab3c7f636a8131513a532d8adc5231bfb" name="ab3c7f636a8131513a532d8adc5231bfb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab3c7f636a8131513a532d8adc5231bfb">&#9670;&#160;</a></span>calc()</h2>
+<a id="ab343447e628a95f8e5f40a2ec6724bce" name="ab343447e628a95f8e5f40a2ec6724bce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab343447e628a95f8e5f40a2ec6724bce">&#9670;&#160;</a></span>calc()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -174,20 +174,20 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>l</em></span>, </td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>left</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>r</em></span>&#160;)</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>right</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <p>Рассчитывает выражение из целых чисел и знаков </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">expr_n</td><td>- выражение, </td></tr>
-    <tr><td class="paramname">l</td><td>- левая граница рассчета, </td></tr>
-    <tr><td class="paramname">r</td><td>- правая граница рассчета </td></tr>
+    <tr><td class="paramname">left</td><td>- левая граница рассчета, </td></tr>
+    <tr><td class="paramname">right</td><td>- правая граница рассчета </td></tr>
   </table>
   </dd>
 </dl>
@@ -261,8 +261,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a12367fa7a57a75610a1f59a74b0d3dc4" name="a12367fa7a57a75610a1f59a74b0d3dc4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a12367fa7a57a75610a1f59a74b0d3dc4">&#9670;&#160;</a></span>convert_nodes_to_number()</h2>
+<a id="ac7a921d92bc12a07216f6c13b37bd81d" name="ac7a921d92bc12a07216f6c13b37bd81d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7a921d92bc12a07216f6c13b37bd81d">&#9670;&#160;</a></span>convert_nodes_to_number()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -275,20 +275,20 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>l</em></span>, </td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>left</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>r</em></span>&#160;)</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>right</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <p>Преобразует беззнаковую последовательность типа node в целое число </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">expr_n</td><td>- последовательность, </td></tr>
-    <tr><td class="paramname">l</td><td>- левая граница преобразования, </td></tr>
-    <tr><td class="paramname">r</td><td>- правая граница преобразования </td></tr>
+    <tr><td class="paramname">left</td><td>- левая граница преобразования, </td></tr>
+    <tr><td class="paramname">right</td><td>- правая граница преобразования </td></tr>
   </table>
   </dd>
 </dl>
@@ -367,8 +367,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="aa01d045fc6b836513270498028e351ab" name="aa01d045fc6b836513270498028e351ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa01d045fc6b836513270498028e351ab">&#9670;&#160;</a></span>find_low_op()</h2>
+<a id="a88a46619a04271cfd77820d15b9295d3" name="a88a46619a04271cfd77820d15b9295d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a88a46619a04271cfd77820d15b9295d3">&#9670;&#160;</a></span>find_low_op()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -381,20 +381,20 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>l</em></span>, </td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>left</em></span>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>r</em></span>&#160;)</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>right</em></span>&#160;)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <p>Находит индекс операции с наименьшим приоритетом </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">expr_n</td><td>- выражение, </td></tr>
-    <tr><td class="paramname">l</td><td>- левая граница поиска, </td></tr>
-    <tr><td class="paramname">r</td><td>- правая граница поиска </td></tr>
+    <tr><td class="paramname">left</td><td>- левая граница поиска, </td></tr>
+    <tr><td class="paramname">right</td><td>- правая граница поиска </td></tr>
   </table>
   </dd>
 </dl>

@@ -88,20 +88,20 @@ enum op convert_to_op(char ch);
 /*!
 Рассчитывает выражение из целых чисел и знаков
 \param expr_n - выражение,
-\param l - левая граница рассчета,
-\param r - правая граница рассчета
+\param left - левая граница рассчета,
+\param right - правая граница рассчета
 \return значение выражения
 */
-int calc(struct node expr_n[], int l, int r);
+int calc(struct node expr_n[], int left, int right);
 
 /*!
 Находит индекс операции с наименьшим приоритетом
 \param expr_n - выражение,
-\param l - левая граница поиска,
-\param r - правая граница поиска
+\param left - левая граница поиска,
+\param right - правая граница поиска
 \return индекс операции с наименьшим приоритетом или -1 (если не найден)
 */
-int find_low_op(struct node expr_n[], int l, int r);
+int find_low_op(struct node expr_n[], int left, int right);
 
 /*!
 Преобразует char в int
@@ -113,11 +113,11 @@ int convert_to_digit(char ch);
 /*!
 Преобразует беззнаковую последовательность типа node в целое число
 \param expr_n - последовательность,
-\param l - левая граница преобразования,
-\param r - правая граница преобразования
+\param left - левая граница преобразования,
+\param right - правая граница преобразования
 \return int-овое значение последовательность
 */
-int convert_nodes_to_number(struct node expr_n[], int l, int r);
+int convert_nodes_to_number(struct node expr_n[], int left, int right);
 
 /*!
 Преобразует строку в node-ы и считает значение

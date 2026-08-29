@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['update_5fwindow_0',['update_window',['../calc__roots__program_8c.html#ac74ff891f460dc6c0af9ea520c85cc47',1,'update_window(char *buffer_eq, char *simple_expr, char *last_solution, struct quadratic_eq *quadr_eq):&#160;calc_roots_program.c'],['../calc__roots__program_8h.html#ac74ff891f460dc6c0af9ea520c85cc47',1,'update_window(char *buffer_eq, char *simple_expr, char *last_solution, struct quadratic_eq *quadr_eq):&#160;calc_roots_program.c']]]
+  ['test_0',['test',['../tests_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f',1,'test(void):&#160;tests.c'],['../tests_8h.html#a708a4c1a4d0c4acc4c447310dd4db27f',1,'test(void):&#160;tests.c']]]
 ];
