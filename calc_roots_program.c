@@ -30,7 +30,8 @@ const size_t size_of_buttons = sizeof(buttons) / sizeof(buttons[0]);
 //=========================================================================================================================
 const struct name_of_prog_mode prog_modes[] = {
     {.mode_mode = DEFAULT_MODE, .mode_name = "DEFAULT_MODE"},
-    {.mode_mode = DYNAMIC_MODE, .mode_name = "DYNAMIC_MODE"}
+    {.mode_mode = DYNAMIC_MODE, .mode_name = "DYNAMIC_MODE"},
+    {.mode_mode = RANDOM_MODE, .mode_name = "RANDOM_MODE"}
 };
 
 const size_t size_of_prog_modes = sizeof(prog_modes) / sizeof(prog_modes[0]);
@@ -47,7 +48,23 @@ const struct slider sliders[] = {
 const size_t size_of_sliders = sizeof(sliders) / sizeof(sliders[0]);
 
 //=========================================================================================================================
+const struct button rand_buttons[] = {
+    { 100, 500,  400, 540, "STOP COEFS"},
+    { 500, 500,  700, 540, "STOP X"    },
+    {1100, 560, 1200, 600, "RESTART"   }
+};
+
+const size_t size_of_rand_buttons = sizeof(rand_buttons) / sizeof(rand_buttons[0]);
+
+const struct name_of_rand_status rand_buttons_names[] = {
+    {  .rand_st = RAND_COEFS, .rand_st_name = "STOP COEFS"},
+    {      .rand_st = RAND_X, .rand_st_name = "STOP X"    },
+    {.rand_st = RAND_RESTART, .rand_st_name = "RESTART"   }
+};
+
+//=========================================================================================================================
 int main() {
+    srand(time(0));
     enum prog_mode cur_mode = DEFAULT_MODE;
     LOG_F = fopen("log.txt", "w");
     ASSERT(LOG_F != NULL, NULL_ERROR);
@@ -79,6 +96,8 @@ int main() {
         
         if (cur_mode == DYNAMIC_MODE) {
             run_dynamic_mode(sliders_value, simple_expr, last_solution, &quadr_eq, cur_mode);
+        } else if (cur_mode == RANDOM_MODE) {
+            run_random_mode(&cur_mode);
         } else {
             run_default_mode(buffer_eq, simple_expr, last_solution, &quadr_eq, &now_buf_ind, cur_mode);
         }
@@ -404,4 +423,249 @@ void set_coefs_for_eq_from_sliders(double sliders_value[], struct quadratic_eq *
     }
 
     calc_roots_of_quadratic_eq(pt_quadr_eq);
+}
+
+void run_random_mode(enum prog_mode *cur_mode) {
+    ALOGG;
+    struct quadratic_eq quadr_eq = {0};
+    enum rand_status now_status = RAND_COEFS;
+    double y_up = 100;
+    double y_down = 400;
+
+    struct button rand_values[] = {
+        {100, 100, 200, 150, " "},
+        {200, 150, 300, 200, " "},
+        {300, 200, 400, 250, " "},
+
+        {100, 250, 200, 300, " "},
+        {200, 300, 300, 350, " "},
+        {300, 350, 400, 400, " "}
+    };
+
+    size_t rand_values_size = sizeof(rand_values) / sizeof(rand_values[0]);
+
+    double speed = 2;
+    double lot_x1 = -200;
+    double lot_x2 = -200;
+    int win_lots = 0;
+
+    int fps_delay = 20;
+    int default_lot_delay = 40;
+    double bill = 20;
+    int payed = 0;
+    int price = 10;
+    double lot_diapason = 5;
+
+    while (1) {
+        if (txMouseButtons() == LEFT_CLICK) {
+            check_button_mode(cur_mode);
+
+            if (*cur_mode != RANDOM_MODE)
+                return;
+            
+            check_random_buttons(&now_status);
+        }
+
+        if (now_status == RAND_RESTART) {
+            if (win_lots == 2) {
+                default_lot_delay = max(default_lot_delay - 10, 1);
+                lot_diapason = max(lot_diapason - 0.5, 2.5);
+            }
+            
+            now_status = RAND_COEFS;
+            speed = 2;
+            lot_x1 = -200;
+            lot_x2 = -200;
+            win_lots = 0;
+            fps_delay = 20;
+            payed = 0;
+        }
+
+        if (now_status == RAND_COEFS) {
+            update_rand_values(&quadr_eq, rand_values, rand_values_size, y_up, y_down);
+
+        } else if (now_status == RAND_X) {
+            if (payed == 0) {
+                if (bill + 1e-5 < price) {
+                    now_status = RAND_COEFS;
+                    continue;
+                }
+
+                bill -= price;
+                payed = 1;
+            }
+
+            update_lot_x(&lot_x1, &speed);
+            fps_delay = default_lot_delay;
+
+        } else if (now_status == RAND_X2) {
+            update_lot_x(&lot_x2, &speed);
+            fps_delay = default_lot_delay;
+
+        } else if (now_status == RAND_WAIT) {
+            calc_roots_of_quadratic_eq(&quadr_eq);
+
+            if (check_lot_x_diapason(quadr_eq.x1, lot_x1, lot_diapason))
+                win_lots++;
+            if (check_lot_x_diapason(quadr_eq.x2, lot_x2, lot_diapason))
+                win_lots++;
+            if (quadr_eq.n_roots != TWO_ROOTS)
+                win_lots = 0;
+            
+            fps_delay = 20;
+
+            if (win_lots == 2) {
+                now_status = RAND_WIN;
+                bill += 100;
+            } else {
+                now_status = RAND_LOSE;
+            }
+        } else if (now_status == RAND_WIN) {
+            ;
+        } else if (now_status == RAND_LOSE) {
+            ;
+        }
+        calc_roots_of_quadratic_eq(&quadr_eq);
+        update_window_random_mode(&quadr_eq, *cur_mode, rand_values, rand_values_size, lot_x1, lot_x2, bill);
+
+        txSleep(fps_delay);
+    }
+}
+
+
+
+void update_window_random_mode(struct quadratic_eq *pt_quadr_eq, enum prog_mode cur_mode, struct button rand_values[], size_t rand_values_size, double lot_x1, double lot_x2, double bill) {
+    ALOGG;
+    ASSERT(pt_quadr_eq != NULL, NULL_ERROR);
+
+    txBegin();
+    txSetFillColor(TX_BLACK);
+    txClear();
+    draw_rand_values(rand_values, rand_values_size);
+    draw_random_buttons();
+    draw_mode_button(cur_mode);
+    draw_grafic(pt_quadr_eq);
+    draw_lot_x(lot_x1);
+    draw_lot_x(lot_x2);
+    draw_bill(bill);
+    
+    txEnd();
+}
+
+void check_random_buttons(enum rand_status *now_status) {
+    double mouse_x = txMouseX();
+    double mouse_y = txMouseY();
+
+    for (int i = 0; i < size_of_rand_buttons; i++) {
+        struct button cur_but = rand_buttons[i];
+        if (cur_but.x1 <= mouse_x && mouse_x <= cur_but.x2 && cur_but.y1 <= mouse_y && mouse_y <= cur_but.y2) {
+            if (strcmp(cur_but.but_text, "STOP COEFS") == 0) {
+                if (*now_status == RAND_COEFS)
+                    *now_status = RAND_X;
+                return;
+            }
+            if (strcmp(cur_but.but_text, "STOP X") == 0) {
+                if (*now_status == RAND_X)
+                    *now_status = RAND_X2;
+                else
+                    *now_status = RAND_WAIT;
+                txSleep(300);
+                return;
+            }
+            if (strcmp(cur_but.but_text, "RESTART") == 0) {
+                *now_status = RAND_RESTART;
+                return;
+            }
+        }
+    }
+}
+
+void draw_random_buttons() {
+    txSetFillColor(TX_RED);
+    txSetColor(TX_WHITE, 3);
+    for (int i = 0; i < size_of_rand_buttons; i++) {
+        draw_button(rand_buttons[i]);
+    }
+}
+
+void draw_rand_values(struct button rand_values[], size_t rand_values_size) {
+    ALOGG;
+
+    txSetColor(TX_WHITE, 3);
+
+    for (size_t val_ind = 0; val_ind < rand_values_size; val_ind++) {
+        if (val_ind == 3) txSetColor(TX_YELLOW, 3);
+        draw_text(rand_values[val_ind]);
+    }
+}
+
+void update_rand_values(struct quadratic_eq *pt_quadr_eq, struct button rand_values[], size_t rand_values_size, double y_up, double y_down) {
+    ALOGG;
+    double speed = 40;
+
+    for (size_t val_ind = 0; val_ind < rand_values_size; val_ind++) {
+
+        rand_values[val_ind].y1 -= speed;
+        rand_values[val_ind].y2 -= speed;
+
+        if ((rand_values[val_ind].y1 + rand_values[val_ind].y2) / 2 < y_up) {
+            double move_down = y_down - y_up;
+            double new_value = 0;
+
+            rand_values[val_ind].y1 += move_down;
+            rand_values[val_ind].y2 += move_down;
+
+            switch (val_ind % 3)
+            {
+            case 0:
+                new_value = (double)(rand() % 201 - 100) / 200.0;
+                pt_quadr_eq->a = new_value;
+                break;
+            
+            case 1:
+                new_value = (double)(rand() % 101 - 50) / 7.0;
+                pt_quadr_eq->b = new_value;
+                break;
+            
+            case 2:
+                new_value = (double)(rand() % 201 - 100) / 2.0;
+                pt_quadr_eq->c = new_value;
+                break;
+            
+            default:
+                break;
+            }
+
+            sprintf(rand_values[val_ind].but_text, "%.2lg", new_value);
+        }
+    }
+}
+
+void draw_text(const struct button but) {
+    txDrawText(but.x1, but.y1, but.x2, but.y2, but.but_text);
+}
+
+void draw_lot_x(double x) {
+    txSetColor(TX_RED, 4);
+    txSetFillColor(TX_RED);
+    txRectangle(1000 + x - 1, 349 - 1, 1000 + x + 1, 349 + 1);
+}
+
+void update_lot_x(double *lot_x, double *speed) {
+    *lot_x += *speed;
+    if (*lot_x > 200 || *lot_x < -200)
+        *speed *= -1;
+}
+
+void draw_bill(double bill) {
+    txSetColor(TX_YELLOW, 4);
+    txSetFillColor(TX_BLACK);
+
+    struct button but_bill = {900, 0, 1200, 100};
+    sprintf(but_bill.but_text, "You have %.2lf$ on your bill", bill);
+    draw_text(but_bill);
+}
+
+int check_lot_x_diapason(double lot_win, double lot_x, double lot_diapason) {
+    return (lot_win - lot_diapason < lot_x && lot_x < lot_win + lot_diapason);
 }

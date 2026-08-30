@@ -16,7 +16,7 @@
 
 struct button {
     double x1, y1, x2, y2;
-    char *but_text;
+    char but_text[40];
 };
 
 enum mouse_clicks {
@@ -27,7 +27,18 @@ enum mouse_clicks {
 
 enum prog_mode {
     DEFAULT_MODE = 0,
-    DYNAMIC_MODE = 1
+    DYNAMIC_MODE = 1,
+    RANDOM_MODE = 2
+};
+
+enum rand_status {
+    RAND_COEFS = 0,
+    RAND_X = 1,
+    RAND_X2 = 2,
+    RAND_RESTART = 3,
+    RAND_WIN = 4,
+    RAND_LOSE = 5,
+    RAND_WAIT = 6
 };
 
 struct name_of_prog_mode {
@@ -41,6 +52,11 @@ struct slider {
     double min_value, max_value;
 };
 
+struct name_of_rand_status {
+    enum rand_status rand_st;
+    char *rand_st_name;
+};
+
 extern const struct button buttons[];
 
 extern const size_t size_of_buttons;
@@ -52,6 +68,12 @@ extern const size_t size_of_prog_modes;
 extern const struct button mode_button;
 
 extern const struct slider sliders[];
+
+extern const struct button rand_buttons[];
+
+extern const size_t size_of_rand_buttons;
+
+extern const struct name_of_rand_status rand_buttons_names[];
 
 /*!
 Отрисовывает элементы управления(кнопки)
@@ -176,3 +198,26 @@ void draw_sliders(double sliders_value[]);
 \param pt_quadr_eq - указатель на квадратное уравнение
 */
 void set_coefs_for_eq_from_sliders(double sliders_value[], struct quadratic_eq *pt_quadr_eq);
+
+
+void run_random_mode(enum prog_mode *cur_mode);
+
+void update_window_random_mode(struct quadratic_eq *pt_quadr_eq, enum prog_mode cur_mode, struct button rand_values[], size_t rand_values_size, double lot_x1, double lot_x2, double bill);
+
+void check_random_buttons(enum rand_status *now_status);
+
+void draw_random_buttons();
+
+void draw_rand_values(struct button rand_values[], size_t rand_values_size);
+
+void update_rand_values(struct quadratic_eq *pt_quadr_eq, struct button rand_values[], size_t rand_values_size, double y_up, double y_down);
+
+void draw_text(const struct button but);
+
+void draw_lot_x(double x);
+
+void update_lot_x(double *lot_x, double *speed);
+
+void draw_bill(double bill);
+
+int check_lot_x_diapason(double lot_win, double lot_x, double lot_diapason);
